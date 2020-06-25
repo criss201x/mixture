@@ -1,0 +1,11 @@
+Cython==0.29.20
+falcon==2.0.0
+uWSGI==2.0.19.1
+gunicorn==20.0.4
+firebase==3.0.1
+python-jwt==3.2.6
+gcloud==0.18.3
+sseclient==0.0.26
+crypto==1.4.1
+pycrypto==2.6.1
+requests-toolbelt==0.9.1
