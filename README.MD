@@ -123,4 +123,13 @@ jornada
    'Atletico Huila vs Jaguares']}]
 ```
 
+## Base de datos firebase
+![Base de datos](https://github.com/criss201x/PruebaUD/blob/master/jupyter/bd.PNG)
+
+
+## Reglas de integridad firebase desbloqueadas
+![Reglas](https://github.com/criss201x/PruebaUD/blob/master/jupyter/reglasbd.PNG)
+
+
+
 
